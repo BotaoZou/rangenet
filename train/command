@@ -1,0 +1,1 @@
+python train.py -d /home/zoubotao/dataset/semantic-kitti/dataset -ac ./config/darknet21.yaml
